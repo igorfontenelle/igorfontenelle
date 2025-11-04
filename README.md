@@ -1,8 +1,8 @@
 ### Hi, I'am Igor Fontenele
 
 - 📚 I'm studying computer science in IFCE/MARACANAU
-- 🔭 I’m currently working on Javascript/Vue.js
-- 🌱 I’m currently learning HTML/CSS
+- 🔭 I’m currently working on Vue.js/C#/Java
+- 🌱 I’m currently learning Docker, Microservices
 - 👯 I'm collaborating on Eletra Energy Solutions
 
 
